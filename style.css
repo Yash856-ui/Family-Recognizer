@@ -1,0 +1,33 @@
+body {
+    color: #5FF2C1;
+    background-color: maroon;
+}
+
+.heading
+{
+    padding: 15px;
+}
+
+p{
+    width: 100%;
+    font-size: 22px;
+}
+
+#camera {
+     padding: 10px;
+     margin: auto;
+     border: 2px dashed aqua;
+     width: 350px;
+     height: 300px;
+}
+
+label {
+     padding: 10px;
+     background-color: white;
+     border-radius: 25px;
+     font-weight: bold;
+}
+
+#result_member_name, #result_member_accuracy {
+      color: brown;
+}
